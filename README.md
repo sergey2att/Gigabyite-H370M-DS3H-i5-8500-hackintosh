@@ -1,0 +1,1 @@
+# Gigabyite-H370M-DS3H-i5-8500-hackintosh
