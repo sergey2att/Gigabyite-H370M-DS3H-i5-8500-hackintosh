@@ -12,7 +12,8 @@ Disable VT-d, FastBoot, SGX, PTT
 Enable Above 4G Decoding, USB XHCI
 
 ## Not Working
-Bluetooth audio devices
+* Some usb 3 ports work as usb 2 ports only. It is known issue for Big Sur 11.4. The same works well for Big Sur 11.3
+* DRM. Safari 14 and macOS 11, Big Sur are currently unsupported by WhateverGreen's DRM patches.
+
 ## References
-OpenCore Desktop Guide
-OpenCore configuration checker
+[OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/)
