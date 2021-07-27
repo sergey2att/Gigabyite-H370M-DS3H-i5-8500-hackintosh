@@ -24,9 +24,5 @@
 * DVMT Pre-Allocated(iGPU Memory): 64MB
 * SATA Mode: AHCI
 
-## Not Working
-* Some usb 3 ports work as usb 2 ports only. It is known issue for Big Sur 11.4. The same works well for Big Sur 11.3
-* DRM. Safari 14 and macOS 11, Big Sur are currently unsupported by WhateverGreen's DRM patches.
-
 ## References
 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/)
